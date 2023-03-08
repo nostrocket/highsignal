@@ -1,5 +1,5 @@
 # Highsignal
-Highest signal relay, ever.
+## Highest signal relay, ever.
 
 **Goal:** To aggregate the cumulative intelligence of paid relay participants/shareholders such that a hierarchy of Nostr Events emerges, ranked by the value of the meaning embedded in each.
 
